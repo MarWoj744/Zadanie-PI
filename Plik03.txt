@@ -1,2 +1,6 @@
 zmiana 07b
 namprawa błędów = hotFix-001
+oraz
+dodano asystenta pomocy
+uproszczenie interfejsu graficznego
+
