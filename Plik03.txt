@@ -5,3 +5,4 @@ dodano asystenta pomocy
 uproszczenie interfejsu graficznego
 
 zmiana 09
+zmiana 10a
