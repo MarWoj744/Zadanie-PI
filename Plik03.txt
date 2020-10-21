@@ -6,3 +6,4 @@ uproszczenie interfejsu graficznego
 
 zmiana 09
 zmiana 10a
+zmiana 11
