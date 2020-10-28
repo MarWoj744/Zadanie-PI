@@ -4,3 +4,4 @@ zmiana 09
 zmiana 10
 zmiana 12
 zmiana 13
+zmiana 14
