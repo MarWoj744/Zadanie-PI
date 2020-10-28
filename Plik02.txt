@@ -2,3 +2,4 @@ zmiana 07a
 zmiana 08
 zmiana 09
 zmiana 10
+zmiana 12
